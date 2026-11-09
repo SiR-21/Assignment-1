@@ -1,0 +1,1 @@
+PASS: 37776 sorter versus Arrays.sort checks; input-family invariants verified

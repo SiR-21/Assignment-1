@@ -1,0 +1,6 @@
+warmup_rounds=12
+warmup_ns=4297577833
+settling_blocks=2
+sink=6503903065645164079
+wall_ns=11449432000
+completed_utc=2026-11-09T22:09:33.876441Z
